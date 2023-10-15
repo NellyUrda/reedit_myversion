@@ -1,0 +1,64 @@
+
+.header {
+    display: flex;
+    justify-content:left ;
+}
+
+.header span{
+    color: #F50D7D;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.logoDiv{
+    display: flex;
+    padding-top: 20px;
+}
+
+.logoDiv p {
+    color:#424040;
+    font-weight: 800;
+    padding-top:0px;
+    margin-left: 5px;
+}
+
+.redditIcon{
+    margin-top: 18px;
+}
+
+.searchForm{
+   margin-left: 70px;
+}
+
+.searchForm input{
+    border:1.5px solid #424040;
+    border-radius:20px;
+    height: 40px;
+    width: 500px;
+    text-indent: 10px;
+    background-color: #eceae8;
+    margin-top: 25px;
+}
+
+
+.searchIcon{
+    margin-top: 20px;
+}
+
+div.header {
+    border-bottom-style: groove;
+    padding-bottom: 20px;
+  
+}
+
+
+/* responsive design*/
+@media only screen and (max-width:760px){
+   .header span{
+    font-size: 16px;
+   }
+
+   .searchForm input{
+    width: 200px;
+   }
+}
