@@ -1,3 +1,17 @@
+This is a web application using ReactJs and Redux Toolkit for state managment. It is my version of the Reedit american social news aggregation, content rating, and discussion website. I fetched the list of topics from reedit.com. They are displayed on first render, and then the user can choose a topic and see the posts related to the topic. Also there is a search feature.
+
+FIRST RENDER
+
+![reedit_img1](https://github.com/NellyUrda/reedit_myversion/assets/116946235/7ac6ad7c-bbaf-47fd-b191-dcc281be1bdf)
+
+SEARCH FEATURE
+
+![reedit_img2](https://github.com/NellyUrda/reedit_myversion/assets/116946235/97db939c-ac7b-4394-b2bb-91de59705b55)
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
